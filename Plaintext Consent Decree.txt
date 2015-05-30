@@ -1,4 +1,4 @@
-UNITED ST A TES DISTRICT COURT
+UNITED STATES DISTRICT COURT
 NORTHERN DISTRICT OF OHIO
 EASTERN DIVISION
 UNITED STATES OF AMERICA, )
@@ -17,17 +17,17 @@ CITY OF CLEVELAND,
 Defendant.
 SETTLEMENT AGREEMENT 
 TABLE OF CONTENTS
-I. INTRODUCTION .............................................................................................................. I
-II. BACKGROUND ................................................................................................................ I
+I. INTRODUCTION .............................................................................................................. 1
+II. BACKGROUND ................................................................................................................ 1
 lll. COMMUNITY ENGAGEMENT AND BUILDING TRUST ........................................... 4
-A. Co1nmunity Police Con1mission ................................................................................... 4
+A. Community Police Commission ................................................................................... 4
 B. District Policing Committees ........................................................................................ 7
-JV. COMMUNITY AND PROBLEM-ORIENTED POLICING ............................................. 8
-Y. BIAS-FREE POLICING ................................................................................................... I 0
+IV. COMMUNITY AND PROBLEM-ORIENTED POLICING ............................................. 8
+V. BIAS-FREE POLICING ................................................................................................... 10
 VI. USE OF FORCE ............................................................................................................... 12
 A. Use of Force Principles ............................................................................................... 12
 B. Use of Force Policies ................................................................. ................................. 14
-I. Firearn1s ..................................................................... ................ ........................... 15
+1. Firearms ..................................................................... ................ ........................... 15
 2. Electronic Control Weapons ................................................. ~ .. ............................. 16
 3. Oleoresin Capsicum Spray ("OC Spray") ............................................................. l 8
 C. Use of Force Training ................................................................................................. 19
@@ -37,7 +37,7 @@ l. Investigations of Level 1 Uses of Force .............. ......................
 2. Investigations of Level 2 Uses of Force ............................................................... 23
 3. Force Investigation Team and Investigations of Level 3 Uses of Force ............... 27
 F. Force Review Board .................. ................................................................................. 31
-vrr. CRISIS INTERVENTJON ................................................................................................ 34
+VII. CRISIS INTERVENTION ................................................................................................ 34
 A. Mental Health Response Advisory Committee ........................................................... 34
 B. Crisis Intervention Coordinator .................................................................................. 35 
 C. Crisis Intervention Training ........................................................................................ 35
@@ -105,14 +105,14 @@ public safety. To further these goals, the Cleveland Division of Police ("CDP") 
 Cleveland community must have a strong relationship that is built on mutual trust and respect.
 The provisions of this Agreement are designed to bolster this relationship and ensure that it
 endures. The Constitution requires the City to prevent excessive force, to ensure that searches
-and seizures arc reasonable, and to ensure that police services are deli vered free from bias.
+and seizures are reasonable, and to ensure that police services are delivered free from bias.
 These precepts also are fundamental to a strong community-police relationship. To further these
-goals, the City has agreed to provide clear guidance to offi cers; increase accountability; provide
+goals, the City has agreed to provide clear guidance to officers; increase accountability; provide
 for civilian participation in and oversight of the police; provide officers with needed support,
 training, and equipment; and increase transparency. The Parties acknowledge that nothing in this
 Agreement alters the fact that the City of Cleveland is a governmental entity organized under the
-laws of Ohio and governed in accordance with its Municipal Charter (''Charter"). This
-Agreement does not alter the Cleveland Charter provisions regarding contro l and supervision or
+laws of Ohio and governed in accordance with its Municipal Charter ("Charter"). This
+Agreement does not alter the Cleveland Charter provisions regarding control and supervision of
 the police force. The Mayor of Cleveland and Director of Public Safety retain their authority
 over CDP and the Chief of CDP retains authority to oversee the operations of CDP.
 For these reasons, and noting the general principle that settlements are to be encouraged,
