@@ -1,102 +1,129 @@
 UNITED STATES DISTRICT COURT
 NORTHERN DISTRICT OF OHIO
 EASTERN DIVISION
-UNITED STATES OF AMERICA, )
-)
-)
-)
-)
-)
-)
-)
-)
-CASE NO.:
-Plaintiff, JUDGE:
+
+UNITED STATES OF AMERICA, Plaintiff,
 v.
 CITY OF CLEVELAND,
 Defendant.
+
+CASE NO.:
+
+JUDGE:
+
 SETTLEMENT AGREEMENT 
+
 TABLE OF CONTENTS
-I. INTRODUCTION .............................................................................................................. 1
-II. BACKGROUND ................................................................................................................ 1
-lll. COMMUNITY ENGAGEMENT AND BUILDING TRUST ........................................... 4
-A. Community Police Commission ................................................................................... 4
-B. District Policing Committees ........................................................................................ 7
-IV. COMMUNITY AND PROBLEM-ORIENTED POLICING ............................................. 8
-V. BIAS-FREE POLICING ................................................................................................... 10
-VI. USE OF FORCE ............................................................................................................... 12
-A. Use of Force Principles ............................................................................................... 12
-B. Use of Force Policies ................................................................. ................................. 14
-1. Firearms ..................................................................... ................ ........................... 15
-2. Electronic Control Weapons ................................................. ~ .. ............................. 16
-3. Oleoresin Capsicum Spray ("OC Spray") ............................................................. l 8
-C. Use of Force Training ................................................................................................. 19
-D. Use of Force Reporting Policy and Use of Force Reports .......................................... 20
-E. Use of Force Investigations ........................................................................................ 22
-l. Investigations of Level 1 Uses of Force .............. ................................................. 22
-2. Investigations of Level 2 Uses of Force ............................................................... 23
-3. Force Investigation Team and Investigations of Level 3 Uses of Force ............... 27
-F. Force Review Board .................. ................................................................................. 31
-VII. CRISIS INTERVENTION ................................................................................................ 34
-A. Mental Health Response Advisory Committee ........................................................... 34
-B. Crisis Intervention Coordinator .................................................................................. 35 
-C. Crisis Intervention Training ........................................................................................ 35
-D. Specialized Crisis Intervention Trained Officers ........................ ................................ 36
-E. Crisis Intervention Policies and Procedures ............................................................... 38
-VIII. SEARCHES AND SEIZURES ......................................................................................... 39
-IX. ACCOUNTABILITY ....................................................................................................... 43
-A. Internally Discovered Misconduct .............................................................................. 43
-B. Reporting Misconduct and Preventing Retaliation ..................................................... 46
-C. Investigation of Civilian Complaints ...................................................................... .... 4 7
-1. The Office of Professional Standards ............ ....................................................... 4 7
-2. Filing and Tracking of Civilian Complaints .. .. .......................... ....... .................... 49
-3. Classification of Civilian Complaints ................................................................... 51
-4. Investigation of Civilian Complaints .................................................................... 52
-5. Communication with the Complainant ................................................................. 54
-D. Police Review Board .................................................................... .. ............................. 54
-E. Disciplinary Hearings ................................................................................................. 56
-F. Discipline ............. .. ..................................................................................................... 57
-X. TRANSPARENCY AND OVERSIGHT .................................................. , ...................... 58
-A. Police Inspector General ............................................ ................................................. 58
-B. Data Collection and Analysis ...................................................................................... 59
-XL OFFICER ASSISTANCE AND SUP.PORT ................... .................................................. 63
-A. Training ....................................................................................................................... 63
-I. ra ning Plan ......................................................................................................... 63
-2. Field Training Program ......................................................................................... 66
-3. Documentation of "fraining ................................................................................... 67
-B. Equipment and Resources ........................................................................................... 67
-II 
-C. Recruitment and Hiring ............................................................................................... 70
-0. Performance Evaluations and Promotions .................................................................. 71
-I. Performance Evaluations ...................................................................................... 72
-2. Promotions ............................................................................................................ 73
-E. Staffing ........................................................................................................................ 73
-Xll. SUPERVISION ................................................................................................................. 74
-A. Duties, and Training of First Line Supervisors ........................................................... 74
-B. Officer Intervention Program ...................................................................................... 75
-C. Body Worn Cameras .......... ......................................................................................... 78
-XIJI. POLICIES ......................................................................................................................... 78
-XIV. IMPLEME TATTON, ASSESSMENT, OUTCOMES, AND ENFORCEMENT .......... 80
-A. Role of the Independent Monitor ................................................................................ 80
-B. Selection and Compensation of the Monitor .............................................................. 81
-C. Compliance Reviews .................................................................................................. 82
-D. Biennial Community Survey ................................................. ...................................... 83
-E. Outcome Measurements .............................................................................................. 84
-F. Monitoring Plan and Review Methodology ................................................................ 88
-G. Monitor Recommendations and Technical Assistance ............................................... 89
-H. Con1prehensive Reassessment .................................................................................... 90
-l. Monitor Reports .......................................................................................................... 90
-.J. Coordination with the Police Inspector General ......................................................... 91
-K. Communication between Monitor, Parties, and Pub I ic .............................................. 91
-L. Public Statements, Testimony, Records, and Conflicts of Interest.. ........................... 92
-M. CDP Consent Decree Implementation Unit ................................................................ 93
-N. Implementation Assessment and Report ..... ................................................................ 93
-111 
-0. Access and Confidentiality ......................................................................................... 94
-P. Court Jurisdiction, Modification of this Agreement, and Enforcement. ..................... 95
-Q. Termination of this Agreement .................................................................................. . 96
-XV. DEFTNJTJONS AND ABBREVIATIONS ....................................................................... 97
-lV 
+
+I. INTRODUCTION 
+
+II. BACKGROUND 
+
+III. COMMUNITY ENGAGEMENT AND BUILDING TRUST
+A. Co1nmunity Police Con1mission 
+B. District Policing Committees 
+
+IV. COMMUNITY AND PROBLEM-ORIENTED POLICING 
+
+V. BIAS-FREE POLICING 
+
+VI. USE OF FORCE
+
+A. Use of Force Principles 
+
+B. Use of Force Policies
+I. Firearms 
+2. Electronic Control Weapons 
+3. Oleoresin Capsicum Spray ("OC Spray") 
+
+C. Use of Force Training 
+
+D. Use of Force Reporting Policy and Use of Force Reports 
+
+E. Use of Force Investigations 
+l. Investigations of Level 1 Uses of Force 
+2. Investigations of Level 2 Uses of Force 
+3. Force Investigation Team and Investigations of Level 3 Uses of Force 
+
+F. Force Review Board 
+
+VII. CRISIS INTERVENTION 
+A. Mental Health Response Advisory Committee 
+B. Crisis Intervention Coordinator  
+C. Crisis Intervention Training 
+D. Specialized Crisis Intervention Trained Officers 
+E. Crisis Intervention Policies and Procedures 
+
+VIII. SEARCHES AND SEIZURES 
+
+IX. ACCOUNTABILITY 
+
+A. Internally Discovered Misconduct 
+
+B. Reporting Misconduct and Preventing Retaliation
+
+C. Investigation of Civilian Complaints 
+1. The Office of Professional Standards
+2. Filing and Tracking of Civilian Complaints
+3. Classification of Civilian Complaints 
+4. Investigation of Civilian Complaints
+5. Communication with the Complainant
+
+D. Police Review Board 
+
+E. Disciplinary Hearings 
+
+F. Discipline
+
+X. TRANSPARENCY AND OVERSIGHT
+A. Police Inspector General 
+B. Data Collection and Analysis
+
+XI. OFFICER ASSISTANCE AND SUPPORT
+
+A. Training 
+1. Training Plan 
+2. Field Training Program 
+3. Documentation of Training
+
+B. Equipment and Resources 
+
+C. Recruitment and Hiring 
+
+D. Performance Evaluations and Promotions 
+1. Performance Evaluations 
+2. Promotions
+
+E. Staffing 
+
+XII. SUPERVISION 
+A. Duties, and Training of First Line Supervisors 
+B. Officer Intervention Program 
+C. Body Worn Cameras 
+
+XIII. POLICIES 
+
+XIV. IMPLEMENTATION, ASSESSMENT, OUTCOMES, AND ENFORCEMENT 
+A. Role of the Independent Monitor 
+B. Selection and Compensation of the Monitor
+C. Compliance Reviews 
+D. Biennial Community Survey
+E. Outcome Measurements 
+F. Monitoring Plan and Review Methodology 
+G. Monitor Recommendations and Technical Assistance
+H. Comprehensive Reassessment
+I. Monitor Reports 
+J. Coordination with the Police Inspector General
+K. Communication between Monitor, Parties, and Public
+L. Public Statements, Testimony, Records, and Conflicts of Interest
+M. CDP Consent Decree Implementation Unit
+N. Implementation Assessment and Report
+0. Access and Confidentiality
+P. Court Jurisdiction, Modification of this Agreement, and Enforcement
+Q. Termination of this Agreement
+
+XV. DEFINITIONS AND ABBREVIATIONS
+
 I. INTRODUCTION
 The United States of America and the City of Cleveland (collectively "Parties'') are
 committed to ensuring that police services in Cleveland are delivered in a manner that is
@@ -157,7 +184,6 @@ community that should be addressed. To that end, and simultaneous with the relea
 DO J's findings, the Parties issued a Joint Statement of Principles agreeing to begin
 negotiations with the intention of reaching a court-enforceable settlement agreement, to
 include the appointment of an outside independent monitor to ensure compliance with
-2 
 the terms of this Agreement. In agreeing to address these important issues, the City is
 not agreeing with the findings.
 6. Constitutional policing and effective policing are interdependent, and rely on a strong
@@ -204,8 +230,10 @@ City agrees to ensure that these functions and entities are consistent with the 
 this Agreement and wi 11 incorporate the terms of this Agreement into the oversight,
 regulatory, accreditation, investigation, or review functions of the government agency
 or entity as necessary to ensure consistency.
-Ill. COMMUNITY ENGAGEMENT AND BUILDING TRUST
-14. This Agreement recognizes the impo1ta:nce of community input into the way police
+
+III. COMMUNITY ENGAGEMENT AND BUILDING TRUST
+
+14. This Agreement recognizes the importance of community input into the way police
 services are delivered. Ongoing community input into the development of reforms, the
 establishment of police priorities, and mechanisms to promote community confidence
 in CDP will strengthen CDP and the police-community relationship that is necessary to
@@ -214,111 +242,137 @@ and effective policing, officer and public safety, and the sustainability of ref
 will create, in accordance with this Agreement, formal and informal mechanisms that
 facilitate ongoing communication between CDP and the many Cleveland communities
 it serves.
+
 A. Community Police Commission
+
 15. To leverage the experience and expertise of the people of Cleveland, and to ensure that
 CDP recognizes and operates in a manner consistent with cooperative community
 understanding and engagement, the City will establish, within 90 days of the Effective
 Date, a Community Police Commission (''Commission") consisting of 13 members
-who represent the many and diverse communities in Cleveland. The Commission will
-4 
-have the following mandate:
+who represent the many and diverse communities in Cleveland. The Commission will have the following mandate:
+
 a. to make recommendations to the Chief of Police and the City, including the
 Mayor and the City Council, on policies and practices related to community
 and problem-oriented policing, bias-free policing, and police transparency;
+
 b. to work with the many communities that make up Cleveland for the purpose
 of developing recommendations for police practices that reflect an
 understanding of the values and priorities of Cleveland residents; and
+
 c. to report to the City and community as a whole and to provide transparency on
 police department reforms.
+
 16. To ensure diverse representation, within 30 days of the Effective Date, the City will
 establish a selection panel made up of representatives from each or the fo llowing:
-(a) faith based organizations; (b) civil rights advocates; (c) the business/philanthropic
-community; (d) organizations representing communities of color; (e) advocacy
-organi1..ations; (f) youth or student organizations; (g) academia; and (h) individuals with
-expertise in the challenges faci ng people with mental illness or the homeless. The
-members of this panel will be selected by the Mayor in consultation with DOJ. and with
+
+(a) faith based organizations; 
+(b) civil rights advocates; 
+(c) the business/philanthropic community; 
+(d) organizations representing communities of color; 
+(e) advocacy organizations; 
+(f) youth or student organizations; 
+(g) academia; and 
+(h) individuals with expertise in the challenges facing people with mental illness or the homeless. 
+
+The members of this panel will be selected by the Mayor in consultation with DOJ and with
 participation by members of Cleveland City Council as determined by the Council
 President. Within 30 days of their appointment, the selection panel will accept
 applications for membership on the Commission from individuals who reside or work
 in the City of Cleveland. Within 30 days thereafter, in an open public forum, the
-selection panel will recommend I 0 persons to be appointed as members of the
-Commission for a term of no more than 4 years, ensuring at least I representative from
+selection panel will recommend 10 persons to be appointed as members of the
+Commission for a term of no more than 4 years, ensuring at least 1 representative from
 each of the categories identified above. The persons recommended by the selection
 panel shall be appointed as provided in the Charter. Current members of the selection
-panel cannot apply to become members of the Cor;nmission. In addition, the Cleveland
+panel cannot apply to become members of the Commission. In addition, the Cleveland
 Patrolmen's Association, the Fraternal Order of Police, and the Black Shield will each
 identify one member to be appointed as provided in the Charter to serve on the
 Commission. Vacancies within the original four year term will be filled in the same
 fashion as the original appointments. At the end of four years, a selection panel will be
-reconstituted and members of the Commission wi II be selected as described above.
+reconstituted and members of the Commission will be selected as described above.
 One member of the Commission will be selected by the Commission to attend meetings
-5 
 of, and receive relevant information and reports from the Community Relations Board
 of the City of Cleveland, and one member of the Community Relations Board will be
 selected by the Community Relations Board to attend meetings of, and receive relevant
 information and reports from the Commission. The Commission will meet periodically
 with the Chief of Police and provide recommendations and reports to him or her, but
 remain independent from, the Chief of Police, the Mayor, and the City Council.
+
 17. The Commission will:
+
 a. within 90 days of appointment, hold public meetings across the City, complete
-an assessment of CD P's bias-free policing policies, practices, and training,
+an assessment of CDP's bias-free policing policies, practices, and training,
 and make recommendations;
+
 b. on an ongoing basis, including through its membership on the Training
-Review Committee, assist as appropriate in CDP"s development of training
+Review Committee, assist as appropriate in CDP's development of training
 related to bias-free policing and cultural competency;
+
 c. on an ongoing basis, assess CDP's community activities, and make
 recommendations for additional strategies for CDP to consider to increase
 community engagement with and community confidence in CDP;
+
 d. on an ongoing basis, review CDP's civilian oversight structure to determine if
 there are changes it recommends for improving CDP's accountability and
 transparency; and
+
 e. perform other function as set out in this Agreement.
+
 18. In addition to the above, the Commission has the authority to:
+
 a. review and comment on CDP's policies and practices related to use of force,
 search and seizure, and data collection and retention;
-b. review and comment on CD P's implementation of initiatives, programs, and
+
+b. review and comment on CDP's implementation of initiatives, programs, and
 activities that are intended to support reform; and
+
 c. hold public meetings to discuss the Monitor's reports and to receive
 community feedback concerning CDP's compliance with this Agreement.
+
 19. The City will provide access to all information requested by the Commission related to
-its mandate, authority, and duties unless it is law enfo rcement sensitive, legally
+its mandate, authority, and duties unless it is law enforcement sensitive, legally
 restricted, or would disclose a personnel action.
-20. At least annually, the Commission will issue repo11s, including any recommendations
-6 
+
+20. At least annually, the Commission will issue reports, including any recommendations
 for improvement, related to each activity that it undertakes. The City will post the
 Commission's reports and recommendations to the City's website.
+
 21. The City will consider and timely respond in writing to the Commission's
 recommendations for improvements. Those responses also will be posted to the City's
 website.
+
 22. The budget for the Commission will be visible as a separate line item in the budget
 proposal that is submitted annually pursuant to the Charter to the Cleveland City
 Council with the appropriations ordinance. The Parties will endeavor to secure private
 funding for the Commission as appropriate. The Monitor will analyze the
 Commission's budget and advise the Parties and the Court as to whether it affords
-sufficient independence and resources to meet the terms of this /\greement.
+sufficient independence and resources to meet the terms of this agreement.
+
 B. District Policing Committees
+
 23. Working jointly, the Commission, CDP, and Community Relations Board ("CRB"),
-will work with the D.istrict Policing Committees (formerly called District Community
+will work with the District Policing Committees (formerly called District Community
 Relations Committees) to fac ilitate regular communication and cooperation between
-CDP and community leaders at the local level. These Disn·ict Policing Committees
+CDP and community leaders at the local level. These District Policing Committees
 should meet, at a minimum, every quarter.
-24. Working jointly, the Commission, CDP. and CRB will develop a mechanism to recruit
+
+24. Working jointly, the Commission, CDP, and CRB will develop a mechanism to recruit
 and expand the membership of the District Policing Committees, each of which should
 include a representative cross-section of community members, including, for example,
 representatives of social services providers, faith leaders, local business owners, youth,
-etc., from that District. Each District Policing Committee also '.Nill include at least one
-CDP offi cer from that District. CDP will work with the Commission to select officers
+etc., from that District. Each District Policing Committee also include at least one
+CDP officer from that District. CDP will work with the Commission to select officers
 for each District Policing Committee.
+
 25. CDP will work closely with the District Policing Committees to identi fy strategies to
-address crime and safoty issues in their District. In developing appropriate strategies,
-the District Policing Committees should consider and address law enfo rcement
+address crime and safety issues in their District. In developing appropriate strategies,
+the District Policing Committees should consider and address law enforcement
 priorities and community policing strategies in their District, and should address any
 concerns or recommendations about specific CDP policing tactics and initiatives in
 their District.
-7 
+
 26. At least annually, each District Policing Committee will present its identified strategies,
 concerns and recommendations to the Commission. At the same time, an officer who is
-a member of the District Policing Committee will present to the Commission CD P's
+a member of the District Policing Committee will present to the Commission CDP's
 assessment of ways to address, and barriers to, implementing the strategies, concerns
 and recommendations of the Committee.
 IV. COMMUNITY AND PROBLEM-ORIENTED POLICING
@@ -380,78 +434,104 @@ developing this report, CDP will consider, as appropriate, available results fro
 biennial survey. The community policing report will be provided to the Commission,
 posted on CDP's website, and a summary of the report will be provided at each District
 community meeting following the report's publication.
+
 V. BIAS-FREE POLICING
+
 35. CDP will deliver police services with the goal of ensuring that they are equitable,
 respectful, and free of unlawful bias, in a manner that promotes broad community
 engagement and confidence in CDP. CDP expects all officers to treat all members of
 the Cleveland community with courtesy, professionalism, and respect, and not to use
 harassing, intimidating, or derogatory language.
+
 36. CDP will integrate bias-free policing principles into its management, policies and
 procedures, job descriptions, recruitment, training, personnel evaluations, resource
-deployment, tactics, and acco ~nt bili ty systems.
+deployment, tactics, and accountability systems.
+
 37. CDP will administer all activities without discrimination on the basis of race, ethnicity,
 national origin, religion, gender, disability, age, sexual orientation, or gender identity.
+
 38. Within 18 months of the Effective Date, CDP will develop a bias-free policing policy
 that incorporates, as appropriate, the recommendations developed by the Commission
 pursuant to paragraph 17, and that provides clear guidance to officers that biased
 policing, including deciding to detain a motorist or pedestrian based solely on racial
 stereotypes, is prohibited.
+
 39. Within 18 months of the Effective Date, with input from the Commission, CDP will
 develop training that incorporates the principles of procedural justice and that is
 designed to ensure that police services are delivered free from bias. The Monitor will
 review the training to assess whether it is adequate in quality, quantity, scope, and type.
-40. The training will be provided to all offi cers and will include:
+
+40. The training will be provided to all officers and will include:
+
 a. constitutional and other legal requirements related to equal protection and
 unlawful discrimination, including the requirements of this Agreement;
+
 b. strategies, such as problem-oriented policing, procedural justice, and
 recognizing implicit bias, to avoid conduct that may lead to biased policing or
 the perception of biased policing;
+
 c. historical and cultural systems that perpetuate racial and ethnic profiling;
-JO 
+
 d. identification of racial or ethnic profiling practices, and police practices that
 have a disparate impact on certain demographic categories;
+
 e. self-evaluation strategies to identify racial or ethnic profiling;
+
 f. District-level cultural competency training regarding the histories and culture
 of local immigrant and ethnic communities;
-g. police and community perspecti ves related to bias-free policing;
+
+g. police and community perspectives related to bias-free policing;
+
 h. the protection of civil rights as a central part of the police mission and as
 essential to effective policing;
-1. instruction in the data collection protocols required by this Agreement; and
-J. methods, strategics, and techniques to reduce misunderstanding, conflict, and
+
+i. instruction in the data collection protocols required by this Agreement; and
+
+j. methods, strategics, and techniques to reduce misunderstanding, conflict, and
 complaints due to perceived bias or discrimination.
+
 41. Supervisor training will include:
+
 a. how to identify biased police practices when reviewing investigatory stop,
-arrest, and use of fo rce data;
+arrest, and use of force data;
+
 b. how to respond to a complaint of biased police practices, including conducting
 a preliminary investigation of the complaint in order to preserve key evidence
 and potential witnesses;
+
 c. how to evaluate complaints of improper pedestrian stops for potential biased
 police practices; and
+
 d. engaging the community and developing positive relationships with diverse
 community groups.
-42. Offi cers also will receive annual in-service training on bias-free policing that is
+
+42. Officers also will receive annual in-service training on bias-free policing that is
 adequate in quality, quantity, type, and scope.
+
 43. To help ensure that police services are delivered in a manner free from bias, CDP will
 analyze data pursuant to paragraph 265.
+
 44. Within 18 months of the Effective Date, the appointing authority will consider
 principles of bias-free policing and equal protection in its hiring; unit assignment, as
 applicable; promotion; and performance assessment processes, including giving
-consideration to an individual's record of bias-related violations, as wel I as using
-interviews or other methods to assess the individual's abi lity to effectively practice
+consideration to an individual's record of bias-related violations, as well as using
+interviews or other methods to assess the individual's ability to effectively practice
 bias-free policing.
-I I 
+ 
 VI. USE OF FORCE
-45. DOJ acknowledges that CDP recently has made impo11ant changes to some of its force
+
+45. DOJ acknowledges that CDP recently has made important changes to some of its force
 policies. Building on these improvements, CDP will revise, develop, and implement
 force policies, training, supervision, and accountability systems with the goal of
 ensuring that force is used in accordance with the Constitution and laws of the United
 States and the requirements of this Agreement and that any use of unreasonable force is
-promptly identified and responded to appropriately. The force policies, trai ning,
-supervision, and accountabi Ii ty systems wi II be designed with the goal of ensuring that
-officers use techniques other than fo rce to effect compliance with police orders
+promptly identified and responded to appropriately. The force policies, training,
+supervision, and accountability systems will be designed with the goal of ensuring that
+officers use techniques other than force to effect compliance with police orders
 whenever feasible: use force only when necessary, and in a manner that avoids
-unnecessary injury to officers and civilians; de~esca ate the use of force at the earliest
+unnecessary injury to officers and civilians; de-escalate the use of force at the earliest
 possible moment; and accurately and completely report all uses of force.
+
 A. Use of Force Principles
 46. The City will implement the terms of this Agreement with the goal of ensuring that use
 of force by CDP offi cers, regardless of the type of force, tactics, or weapon used, wi 11
@@ -1125,22 +1205,27 @@ appropriate personnel. The Chief and his or her designee wi ll ensure that the F
 recommendations, including non-disciplinary corrective action, are implemented as
 appropriate.
 33 
+
 VII. CRISIS INTERVENTION
+
 131. CDP will build upon and improve its Crisis Intervention Program with the goal of: (a)
 assisting individuals in crisis; (b) improving the safety of officers, consumers, family
 members, and others within the community; (c) providing the foundation necessary to
 promote community and statewide solutions to assist individuals with mental illness;
 and (d) reducing the need for individuals with mental illness to have further
 involvement with the criminal justice system. The Crisis Intervention Program will
-provide a forum fo r effective problem solving regarding the interaction between the
+provide a forum for effective problem solving regarding the interaction between the
 criminal justice and mental health care system and create a context for sustainable
 change.
+
 A. Mental Health Response Advisory Committee
+
 132. Within 180 days of the Effective Date, CDP and the City will ensure that a Mental
 Health Response Advisory Committee ("Advisory Committee") is developed to foster
 relationships and build support between the police, the community, and mental health
 providers and to help identify problems and develop solutions designed to improve
 outcomes for individuals in crisis.
+
 133. The Advisory Committee will include the Crisis Intervention Coordinator and
 representation from specialized CIT officers. CDP also will seek representation from
 the Cleveland Municipal Court's Mental Health Docket, the Ohio Criminal Justice
@@ -1149,48 +1234,59 @@ Mental Health Services Board ("ADAMHS Board''), FrontLine Services, and any othe
 relevant Cuyahoga County mental health organizations, such as advocacy
 organizations, homeless service providers, area hospitals, and interested community
 members.
+
 134. The Advisory Committee will meet regularly and provide guidance to assist COP in
 improving, expanding, and sustaining its Crisis Intervention Program.
+
 135. On an annual basis, the Advisory Committee will conduct an analysis of crisis
 intervention incidents to determine whether CDP has enough specialized CIT officers,
 whether it is deploying those officers effectively, and whether specialized CIT officers,
 call-takers, and dispatchers arc appropriately responding to people in crisis, and will
-34 
 recommend appropriate changes to policies, procedures, and training regarding police
 contact with individuals in crisis.
+
 136. The Advisory Committee's reports and recommendations will be provided to the
 Commission, will be publicly available, and will be posted on the City's website.
+
 B. Crisis Intervention Coordinator
-137. Within I 80 days of the Effective Date, CDP will designate an officer, at the rank of
+
+137. Within 180 days of the Effective Date, CDP will designate an officer, at the rank of
 captain or above, to act as a Crisis Intervention Coordinator to better facilitate
 communication between CDP and members of the mental health community and to
 increase the effectiveness of CDP's Crisis Intervention Program.
-138. The Coord inator will develop and maintain partnerships with program stakeholders and
+
+138. The Coordinator will develop and maintain partnerships with program stakeholders and
 serve as a point of contact for advocates, individuals, families, caregivers,
 professionals, and others associated with the mental health community. The
 Coordinator will be available as a resource at all times during normal business hours.
+
 139. The Coordinator will participate in the Advisory Committee and on a regular basis
-solicit feedback from the mental health community and specialized CIT ofli cers, calltakers,
+solicit feedback from the mental health community and specialized CIT officers, calltakers,
 and dispatchers regarding the efficacy of CDP's Crisis Intervention Program.
+
 140. The Coordinator will be responsible for coordinating implementation of the changes
 and recommendations made by the Advisory Committee, as appropriate.
+
 141 . The Coordinator will be responsible for ensuring the selection of appropriate candidates
-fo r designation as specialized CIT officers. The Coordinator also will be required to
-ensure that officers, call-takers, and dispatchers are appropriately responding to CITrelated
+for designation as specialized CIT officers. The Coordinator also will be required to
+ensure that officers, call-takers, and dispatchers are appropriately responding to CIT related
 calls.
-142. The Coordinator will create ways to recognize and honor specialized CIT officers, calltakcrs,
+
+142. The Coordinator will create ways to recognize and honor specialized CIT officers, calltakers,
 and dispatchers, where appropriate.
+
 C. Crisis Intervention Training
+
 143. CDP will provide training on responding to individuals in crisis to all of its officers and
-recruits. Within 365 days of the Effective Date, officers wi ll be provided with at least
+recruits. Within 365 days of the Effective Date, officers will be provided with at least
 eight hours of initial training, and all officers will receive annual in-service training
 thereafter. The initial and annual training will be adequate in quality, quantity, type,
-and scope, and will include the circumstances in which a specialized CJT officer should
-35 
+and scope, and will include the circumstances in which a specialized CIT officer should
 be dispatched or consulted and how situations involving individuals in crisis should be
 addressed if a specialized CIT officer is not immediately available. All new recruits
 will receive at least 16 hours of training in the academy that meets these same
 requirements.
+
 144. Within 365 days or the Effective Date, and annually thereafter, all CDP call-takers,
 dispatchers, and their supervisors will receive crisis intervention telecommunicators
 training that is adequate to enable them to identify, dispatch, and appropriately respond
@@ -1202,54 +1298,61 @@ that the call involves an individual in crisis; and the types of calls that requ
 specialized CIT response. Any crisis intervention training that already has been
 provided to call-takers, dispatchers, and their supervisors may be considered to fulfill
 training requirements under this Agreement for those individuals, if appropriate.
+
 0. Specialized Crisis Intervention Trained Officers
+
 145. CDP will provide enhanced specialized training in responding to individuals in crisis to
 certain officers ("specialized CIT officers"). Specialized CIT officers will continue to
 be assigned to the patrol division and will maintain their standard patrol duties, except
 when called upon to respond to incidents or calls involving individuals in crisis.
-146. The enhanced training fo r specialized CIT officers will be at lease 40 hours. This
+
+146. The enhanced training for specialized CIT officers will be at least 40 hours. This
 enhanced training will be adequate in quality, scope, and type and will include how to
 conduct a field evaluation, suicide intervention, community mental health resources,
 common mental health diagnoses, the effects of drug and alcohol abuse, perspectives of
 individuals with mental health issues, family members, the rights of persons with
 mental illness, civil commitment criteria, crisis de-escalation, and scenario-based
 exercises. This training must include on-site visitation to mental health and substance
-abuse fac ilities and interaction with individuals with mental illness and substance abuse
-disorders. Officers who arc designated as specialized CIT officers who already have
+abuse facilities and interaction with individuals with mental illness and substance abuse
+disorders. Officers who are designated as specialized CIT officers who already have
 received 40 hours of appropriate crisis intervention training may be considered to have
-36 
 fulfilled these training requirements.
-14 7. Specialized CIT offi cers do not have to receive the initial eight hours of training
+
+147. Specialized CIT officers do not have to receive the initial eight hours of training
 provided to all officers, but must receive eight hours of annual in-service crisis
 intervention training, which can be the same training provided to all officers, if
 appropriate.
+
 148. Training and designation as a specialized CIT officer will be voluntary. To be eligible
-for consideration, offi cers must have at least three years of experience as a CDP officer.
+for consideration, officers must have at least three years of experience as a CDP officer.
 CDP will provide an in-depth assessment of each applicant to determine the applicant's
 fitness to serve as a specialized CIT officer. This assessment will include an
-examination of the offi cer's written application, supervisory recommendations,
-disciplinary tile, and an in-person interview. Offi cers with a history of complaints of,
+examination of the officer's written application, supervisory recommendations,
+disciplinary tile, and an in-person interview. Officers with a history of complaints of,
 or who have been disciplined for, excessive use of force against individuals in crisis
-will be presumptively ineligible to be specialized CJT officers.
-149. Supervisors wi ll identify and encourage qualified officers across all shifts and all
-Districts to serve as specialized CJT offi cers.
+will be presumptively ineligible to be specialized CIT officers.
+
+149. Supervisors will identify and encourage qualified officers across all shifts and all
+Districts to serve as specialized CIT officers.
+
 150. All Field Training Officers will receive the enhanced specialized crisis intervention
 training described in paragraph 146. Despite having received this training, an FTO will
 not be designated as a specialized CIT officer unl ess that FTO has volunteered to be a
 specialized CIT officer and has been selected by the Coordinator.
+
 151. Specialized CIT officers who arc dispatched to an incident involving an individual in
 crisis will have primary responsibility for the scene. If a supervisor has assumed
-responsibility for the scene, the supervisor will seek the input of a specialized err
-officer regarding strategies for resolving the crisis where it is reasonable fo r them to do
+responsibility for the scene, the supervisor will seek the input of a specialized CIT
+officer regarding strategies for resolving the crisis where it is reasonable for them to do
 so.
-152. Within 365 days of the Effective Date, the Coordinator will develop an effoctive
+
+152. Within 365 days of the Effective Date, the Coordinator will develop an effEctive
 specialized crisis intervention plan ("Specialized Crisis Intervention Plan"). The goal
 of the Specialized Crisis Intervention Plan will be to ensure that a specialized CIT
-offi cer is available to respond to all calls and incidents that appear to involve an
-individual in crisis. The Specialized Crisis [ntervention Plan will include an assessment
-of the number of offi cers necessary to achieve this goal; identification of gaps in
+officer is available to respond to all calls and incidents that appear to involve an
+individual in crisis. The Specialized Crisis Intervention Plan will include an assessment
+of the number of officers necessary to achieve this goal; identification of gaps in
 coverage of particular shifts or Districts and development of mechanisms to fill those
-37 
 gaps; identification of any barriers to ensuring full coverage and steps to overcome
 those barriers; and ways to identify qualified officers and to encourage them to apply.
 CDP will continually review and revise this plan as barriers to full coverage are
@@ -1262,52 +1365,61 @@ officer responds to all calls and incidents that appear to involve an individual
 The Monitor will assess the Specialized Crisis Intervention Plan and report to the
 Parties whether it is appropriate and effective, and whether the City is using its best
 efforts to implement it.
+
 E. Crisis Intervention Policies and Procedures
+
 153. The Ohio Criminal Justice Coordinating Center of Excellence currently is conducting a
 peer review of the crisis intervention program in Cuyahoga County. The results of the
 peer review assessment will be provided to the Advisory Committee, DOJ, and the
-Monitor. In developing its policies and procedures and the plan req uired by paragraph
+Monitor. In developing its policies and procedures and the plan required by paragraph
 152, the City will consider this assessment and any recommendations contained within
-i l.
+it.
+
 154. CDP, with recommendations from the Advisory Committee, will revise its policies to
 make clear that a crisis intervention response may be necessary even in situations where
 there has been an apparent law violation.
+
 155. CDP, with recommendations from the Advisory Committee, will revise its current crisis
-intervention policy to ensure that specialized CIT offi cers have appropriate discretion to
+intervention policy to ensure that specialized CIT officers have appropriate discretion to
 direct individuals with mental health and substance abuse issues to the health care
-system, rather than the j udicial system, in those instances where it is appropriate to do
+system, rather than the judicial system, in those instances where it is appropriate to do
 so.
+
 156. CDP's policies and procedures will make clear that specialized CIT officers, when
 available, must be dispatched to all calls or incidents that appear to involve an
-individual in c1isis. CDP will track incidents in which a specialized offi cer was not
-38 
+individual in c1isis. CDP will track incidents in which a specialized officer was not
 dispatched to such calls. In developing and revising the plan required by paragraph
-I 52, CDP will identify any barriers to ensuring that specialized CIT officers were
+152, CDP will identify any barriers to ensuring that specialized CIT officers were
 dispatched to these calls, and will include steps to overcome these barriers.
-I 57. CDP will track calls and incidents involving individuals in crisis by gathering, at a
-minimum, the fo llowing data:
+
+157. CDP will track calls and incidents involving individuals in crisis by gathering, at a
+minimum, the following data:
+
 a. date, time, and location of the incident;
 b. subject's name, age, gender, race, ethnicity, and address;
 c. whether the subject was armed, and the type of weapon;
 d. whether the subject is a United States military veteran;
-e. name and address of individual calling fo r service;
+e. name and address of individual calling for service;
 f. the reason for the interaction, i.e., suspected criminal conduct or call for
 assistance;
-g. nan1e(s) and badge number(s) of the offi cer(s) on the scene;
+g. name(s) and badge number(s) of the officer(s) on the scene;
 h. whether a supervisor responded to the scene;
-1. techniques or equipment officers used;
-J. any injuries to offi cers, subject, or others;
+i. techniques or equipment officers used;
+j. any injuries to officers, subject, or others;
 k. disposition of the incident (e.g., defuse, arrest, citation, referral); and
-I. brief narrative of the event (only if not included in another document).
+i. brief narrative of the event (only if not included in another document).
+
 158. CDP must publicly report this outcome data annually and provide it to the Advisory
 Committee, aggregated as necessary to protect privacy.
+
 159. CDP will utilize this outcome data to identify training needs and develop case studies
 and teaching scenarios for crisis intervention training as well as primary and in-service
 crisis training; to make changes to the crisis training curriculum; to identify safety
 issues and trends; to recognize and highlight successful individual officer performance;
 to develop new response strategies for repeat calls for service; and to identify systemic
 issues that impede CDP's ability to provide an appropriate response to an incident
-invo.lving an individual in crisis.
+involving an individual in crisis.
+
 VlJI. SEARCHES AND SEIZURES
 160. CDP will conduct all investigatory stops, searches, and arrests with the goal of ensuring
 that they are conducted in accordance with the rights secured and protected by the
